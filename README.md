@@ -16,4 +16,4 @@ Empresa:
 
 
 ## 🔗 Repositório
-[Acessar projeto no GitHub](https://github.com/CaioPedretti/Projeto-Aplicado-I-Grupo-1)
+[Acessar projeto no GitHub](https://github.com/CaioPedretti/Projeto-Aplicado-II-Grupo-Query/tree/main)
