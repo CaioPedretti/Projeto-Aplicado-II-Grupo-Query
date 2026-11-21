@@ -1,0 +1,4 @@
+modelo,acuracia,precisao_detrator,recall_detrator,f1_score_detrator,roc_auc,pedidos_validos
+Baseline Ingenuo (Maior Incidencia),0.8721,0.0000,0.0000,0.0000,0.5000,95824
+Random Forest Classifier,0.8668,0.4771,0.4296,0.4521,0.7419,95824
+Regressao Logistica,0.8412,0.3960,0.4595,0.4254,0.7320,95824
