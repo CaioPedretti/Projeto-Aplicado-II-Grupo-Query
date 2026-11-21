@@ -1,0 +1,4 @@
+analise,estimativa,variacao_pct_dia,p_valor,observacao
+Odds Ratio por dia de atraso (base completa),1.0315,3.15,< 0.01,Aumento estimado de 3.15% nas chances de nota 1 ou 2 por dia adicional de atraso
+Odds Ratio por dia de atraso (atrasos severos ate 30 dias),1.1510,15.10,< 0.01,Impacto nao linear acentuado em atrasos severos
+Reducao media no review_score por dia adicional de atraso,-0.0159,,< 0.01,Queda media observada na escala de 1 a 5
