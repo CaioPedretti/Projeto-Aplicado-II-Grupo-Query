@@ -1,0 +1,4 @@
+num_clusters_k,silhueta_amostral,inercia_wcss,itens_validos
+3,0.5406,182868.60,109660
+4,0.5387,146170.47,109660
+5,0.3237,126047.16,109660
